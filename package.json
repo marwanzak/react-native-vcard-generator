@@ -1,0 +1,31 @@
+{
+  "name": "vcards-js",
+  "version": "2.4.1",
+  "description": "Create vCards to import contacts into Outlook, iOS, Mac OS, Android devices, and more.",
+  "main": "index.js",
+  "dependencies": {
+    "moment": "~2.13.0",
+    "react-native-fs": "^2.0.1-rc.2"
+  },
+  "devDependencies": {
+    "mocha": "~2.5.3"
+  },
+  "scripts": {
+    "test": "mocha ./test/tests"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/idxbroker/vcards-js"
+  },
+  "keywords": [
+    "vCard",
+    "vCards",
+    "contacts"
+  ],
+  "author": "Eric J Nesser",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enesser/vCards-JS/issues"
+  },
+  "homepage": "https://github.com/enesser/vCards-JS"
+}
